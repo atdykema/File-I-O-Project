@@ -1,11 +1,3 @@
-this is a text file containing an overview/description of your submission highlighting the important parts of your implementation. 
-It should explicitly explain where in your implementation your code satisfies the requirements of having BSTs and the "hashing function".
- The goal is to make it easy and obvious for the person grading your submission to find the important rubric items.
-This text file should also clearly include a URL to your video for us to review.
-
-This project involved the implimentation of an basic FIle I/o system which was able to take in a file of text from either the environ, STDIN, or just being called
-from the command line and takes every word from the file and alphabetically sorts them into BSTs which are then outputted to output.txt.
-
 Functions: 
     Main: Makes sure each type of input is in the proper format to be passed into getInput, where the data is parsed. It then prints all of the data
     from the hashtable once all the input is accounted for. Finally, it frees all the memory stored in the BSTs
